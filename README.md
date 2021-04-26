@@ -1,7 +1,7 @@
 # sehaj_portfolio
 Portfolio 
 
-# Haberman-Cancer-Survival-Dataset: Project Overview
+# Haberman Cancer Survival Dataset: Project Overview
 * Tool that estimtaes the survival of patients who had undergone surgery for breast cancer.
 
 # Code and Resources Used
